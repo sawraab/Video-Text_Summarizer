@@ -33,10 +33,10 @@ Please make sure to update tests as appropriate.
 
 1. Clone the repository in your local machine.
 ```
-git clone https://github.com/19IT114/YouTube-Transcript-Summarizer.git
+git clone https://github.com/sawraab/Video-Text_Summarizer.git
 ```
 
-2. To run the API, you need to set up a **Virtual Environment**. Go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command.
+2. To run the API, you need to set up a **Virtual Environment**. Go into *API* folder, open command prompt and paste the following command.
 ```
 python -m venv venv
 ```
@@ -64,13 +64,6 @@ npm start
 ```
 
 
-## Demo of the Project
-
-https://drive.google.com/file/d/1u5OVxgmmDYr7lzqwm5XKmbA7Dsp6WyCh/view?usp=sharing
-## Authors
-
-- [@Virag_Patel](https://www.github.com/19IT114)
-- [@Venis_Prajapati](https://www.github.com/venisprajapati)
 
 
 ### [Click here](https://user-images.githubusercontent.com/61548445/149874631-bc411249-2d05-4e0c-ac29-dfb93de78a82.png) to have a look at the poster of the project.
